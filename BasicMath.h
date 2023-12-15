@@ -1,4 +1,7 @@
 #pragma once
+#include <math.h>
+# define PI 3.14159265359
+
 
 struct PointXY
 {
@@ -12,3 +15,10 @@ struct PointPolar
 	double radius;
 
 };
+
+ PointXY PolarToXY(PointPolar inPP)
+{
+	 PointXY i;
+	 
+	 return i;
+}
