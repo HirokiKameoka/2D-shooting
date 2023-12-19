@@ -3,7 +3,6 @@
 #include "Player.h"
 #include "Fps.h"
 #include"Gamemaneger.h"
-#include"Testclass.h"
 
 
 
